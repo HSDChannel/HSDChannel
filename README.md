@@ -1,16 +1,14 @@
-### Hi there 👋
+  <p>Где я обитаю:<p>
+  <p><a href="https://vk.com/divchenko2">ВКонтакте</a><p>
+  <p><a href="https://openvk.su/id333">OpenVK</a><p>
+  <p><a href="https://t.me/hsdtg">Telegram</a><p>
+  <p><a href="https://codeberg.org/HSD">Codeberg.org</a><p>
+  <p>Discord: HSD#6369<p>
+  <p>KICQ: 280-812-775 (альт.:12-856)<p>
+  <p>IRC: HSD (или HSDChannel)<p>
+  <p>XMPP/Jabber: _dima4_@jabber.ru<p>
+  <p>MSN (<a href="https://escargot.chat/">Escargot</a>): kvdbve34@gmail.com<p>
+  <p>E-Mail:</a><p>
+  <p><a href="mailto:x.x-globus2016@yandex.ru">x.x-globus2016@yandex.ru</a><p>
+  <p><a href="mailto:kvdbve34@gmail.com">kvdbve34@gmail.com</a><p>
 
-<!--
-**HSDChannel/HSDChannel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
