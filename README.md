@@ -11,4 +11,4 @@
   <p>E-Mail:</a><p>
   <p><a href="mailto:x.x-globus2016@yandex.ru">x.x-globus2016@yandex.ru</a><p>
   <p><a href="mailto:kvdbve34@gmail.com">kvdbve34@gmail.com</a><p>
-  <p>Мой сайт: http://hsdchannel.neonarod.com/<p>
+  <p>Мой сайт: http://hsdchannel.neonarod.com/ (или http://hsdchannel.ml/)<p>
