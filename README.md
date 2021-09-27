@@ -4,6 +4,7 @@
   <p><a href="https://t.me/hsdtg">Telegram</a><p>
   <p><a href="https://codeberg.org/HSD">Codeberg.org</a><p>
   <p>Discord: HSD#6369<p>
+  <p>Revolt: HSD<p>
   <p>KICQ: 280-812-775 (альт.:12-856)<p>
   <p>IRC: HSD (или HSDChannel)<p>
   <p>XMPP/Jabber: _dima4_@jabber.ru<p>
