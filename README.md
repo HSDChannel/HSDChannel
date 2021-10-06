@@ -1,3 +1,6 @@
+      
+  ![Stats](https://github-readme-stats.vercel.app/api?username=HSDChannel&show_icons=true)
+    
   <p>Где я обитаю:<p>
   <p><a href="https://vk.com/divchenko2">ВКонтакте</a><p>
   <p><a href="https://openvk.su/id333">OpenVK</a><p>
