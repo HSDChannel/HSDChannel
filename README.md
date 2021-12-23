@@ -6,6 +6,7 @@
   <p><a href="https://openvk.su/id333">OpenVK</a><p>
   <p><a href="https://c.im/@hsd">c.im (Mastodon)</a><p>
   <p><a href="https://quietplace.xyz/@hsd">quietplace.xyz (Misskey)</a><p>
+  <p><a href="https://pixelfed.social/HSD">pixelfed.social (Pixelfed)</a><p>
   <p><a href="https://t.me/hsdtg">Telegram</a><p>
   <p><a href="https://codeberg.org/HSD">Codeberg.org</a><p>
   <p>Discord: HSD#6369<p>
