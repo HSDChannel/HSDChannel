@@ -13,7 +13,7 @@
   <p>Revolt: HSD<p>
   <p>KICQ: 280-812-775 (альт.:12-856)<p>
   <p>IRC: HSD (или HSDChannel)<p>
-  <p>XMPP/Jabber: _dima4_@jabber.ru<p>
+  <p>XMPP/Jabber: _dima4_@jabber.ru (альт.: hsd@macaw.me)<p>
   <p>MSN (<a href="https://escargot.chat/">Escargot</a>): kvdbve34@gmail.com<p>
   <p>E-Mail:</a><p>
   <p><a href="mailto:x.x-globus2016@yandex.ru">x.x-globus2016@yandex.ru</a><p>
