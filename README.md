@@ -1,1 +1,1 @@
-<p>Мой сайт: https://hsdchannel.github.io/
+<p>Мой сайт: https://hsdch.ru/
